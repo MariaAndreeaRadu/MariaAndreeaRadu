@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariaAndreeaRadu
-- 👀 I’m interested in a new job
+- 👀 I’m interested to get a new job
 - 🌱 I’m currently learning Javascript & Java
 - 💞️ I’m looking to collaborate on new corporation
 - 📫 How to reach me ? You can find me here :D
